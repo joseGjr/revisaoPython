@@ -1,5 +1,11 @@
-idade  = 20
-if idade >= 20 and idade <=60:
-    print("idade de 20 a 60 anos")
-else:
-    print("idade não se enquadra")
+'''n  = 10
+cont = 0
+
+while cont < n :
+    print(cont)
+    cont = cont +1'''
+n = 10
+cont = 0
+
+for cont in range(n):
+    print(cont)
